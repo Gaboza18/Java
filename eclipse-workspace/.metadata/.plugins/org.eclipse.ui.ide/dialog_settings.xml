@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.views.markers.FiltersConfigurationDialog">
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\ssych\eclipse-workspace\Chap14.InputOutput"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap11.API"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap13.Collection"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap12.Exception"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap11.Generic"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap09.Interface"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chqp10.NestedClass"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap08.Class_2"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Exam2"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap07.class_1"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap05.Arrays"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Exam"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap06.Enumeration"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap02.Variables"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Homework2"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap04.Loopstmt"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap04.ConditioalStmt"/>
+			<item value="C:\Users\ssych\eclipse-workspace\Chap03.Operators"/>
+			<item value="C:\Program Files\eclipse\java -workspace\Chap02.Variables"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="C:\Users\ssych\Downloads\java -workspace.zip"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="654"/>
+		<item key="DIALOG_Y_ORIGIN" value="341"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>
